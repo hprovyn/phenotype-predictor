@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/customerAvatars/dev-build/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/customerAvatars/dev-build/static/js/main.2b389f39.chunk.js",
+    "main.js.map": "/customerAvatars/dev-build/static/js/main.2b389f39.chunk.js.map",
+    "runtime-main.js": "/customerAvatars/dev-build/static/js/runtime-main.b71f1d7d.js",
+    "runtime-main.js.map": "/customerAvatars/dev-build/static/js/runtime-main.b71f1d7d.js.map",
+    "static/js/2.593c8955.chunk.js": "/customerAvatars/dev-build/static/js/2.593c8955.chunk.js",
+    "static/js/2.593c8955.chunk.js.map": "/customerAvatars/dev-build/static/js/2.593c8955.chunk.js.map",
+    "static/js/3.a3ed3db5.chunk.js": "/customerAvatars/dev-build/static/js/3.a3ed3db5.chunk.js",
+    "static/js/3.a3ed3db5.chunk.js.map": "/customerAvatars/dev-build/static/js/3.a3ed3db5.chunk.js.map",
+    "index.html": "/customerAvatars/dev-build/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/customerAvatars/dev-build/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.593c8955.chunk.js.LICENSE.txt": "/customerAvatars/dev-build/static/js/2.593c8955.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/customerAvatars/dev-build/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b71f1d7d.js",
+    "static/js/2.593c8955.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.2b389f39.chunk.js"
+  ]
+}
